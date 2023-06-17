@@ -42,7 +42,7 @@
 
 5.	**Перейти в папку проекта:**
 
-      cd digitalTest
+      cd DigitalTest
 
 7.	**Собрать проект с помощью команды:**
 
@@ -50,7 +50,7 @@
 
 9.	**Запустить приложение с помощью команды:**
 
-      java -jar target/digitalTest-0.0.1-SNAPSHOT.jar
+      java -jar target/DigitalTest-0.0.1-SNAPSHOT.jar
 
 11.	**Приложение будет доступно по адресу** http://localhost:8080.
 
